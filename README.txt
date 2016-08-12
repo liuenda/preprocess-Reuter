@@ -1,6 +1,7 @@
 2016/8/12 
 疑问和以后处理点：
 . 前处理的phrase detection怎么处理，并没有找到phrase检测和合并的文件，日语或者英语，请求检查
+.. phrase detection 将会全部在modeling模块的中的phrase_det.py完成，详见modeling的readme文件
 
 Procedures for preprocessing
 1. For English:
